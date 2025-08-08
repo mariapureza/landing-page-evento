@@ -8,3 +8,6 @@ Tecnologias
 
 Demonstração
 https://github.com/mariapureza/landing-page-evento/blob/main/screenshot-landing%20page.png
+
+Acesse o projeto
+https://mariapureza.github.io/landing-page-evento/
